@@ -1,8 +1,8 @@
 Line 1 | Task 7
 Line 2 | Task 7
 Line 3
-Line 4
-Line 5
+Line 4 | Task 8
+Line 5 | Task 8
 Line 6
 Line 7
 Line 8
