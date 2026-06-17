@@ -6,5 +6,5 @@ Line 5 | Task 8
 Line 6 | Task 20
 Line 7
 Line 8
-Line 9
-Line 10
+Line 9 | Task 18
+Line 10 | Task 18
